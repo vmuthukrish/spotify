@@ -1,3 +1,15 @@
-2021/07/09-15:04:14.044 4618 Reusing MANIFEST C:\Users\vmuthukr\AppData\Local\Spotify\Browser\IndexedDB\https_xpui.app.spotify.com_0.indexeddb.leveldb/MANIFEST-000001
-2021/07/09-15:04:14.046 4618 Recovering log #5275
-2021/07/09-15:04:14.048 4618 Reusing old log C:\Users\vmuthukr\AppData\Local\Spotify\Browser\IndexedDB\https_xpui.app.spotify.com_0.indexeddb.leveldb/005275.log 
+2021/07/09-15:25:14.678 2a38 Reusing MANIFEST C:\Users\vmuthukr\AppData\Local\Spotify\Browser\IndexedDB\https_xpui.app.spotify.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/07/09-15:25:14.679 2a38 Recovering log #5291
+2021/07/09-15:25:14.680 2a38 Reusing old log C:\Users\vmuthukr\AppData\Local\Spotify\Browser\IndexedDB\https_xpui.app.spotify.com_0.indexeddb.leveldb/005291.log 
+2021/07/09-15:25:46.724 36c8 Level-0 table #5296: started
+2021/07/09-15:25:46.743 36c8 Level-0 table #5296: 1978 bytes OK
+2021/07/09-15:25:46.744 36c8 Delete type=0 #5291
+2021/07/09-15:25:46.745 36c8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/07/09-15:25:46.745 36c8 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01 \x03\x000%\x15\xab\xa8wB\x00\x01}\x00d\x00a\x00t\x00a\x00-\x00c\x00a\x00c\x00h\x00e\x00-\x00v\x001\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00s\x00p\x00c\x00l\x00i\x00e\x00n\x00t\x00.\x00w\x00g\x00.\x00s\x00p\x00o\x00t\x00i\x00f\x00y\x00.\x00c\x00o\x00m\x00/\x00q\x00u\x00i\x00c\x00k\x00s\x00i\x00l\x00v\x00e\x00r\x00/\x00v\x002\x00/\x00t\x00r\x00i\x00g\x00g\x00e\x00r\x00s\x00?\x00t\x00r\x00i\x00g\x00_\x00t\x00y\x00p\x00e\x00=\x00U\x00R\x00I\x00&\x00t\x00r\x00i\x00g\x00_\x00t\x00y\x00p\x00e\x00=\x00C\x00L\x00I\x00E\x00N\x00T\x00_\x00E\x00V\x00E\x00N\x00T\x00&\x00c\x00t\x00v\x00_\x00t\x00y\x00p\x00e\x00=\x00w\x00e\x00b\x00-\x00m\x00o\x00d\x00a\x00l' @ 119145 : 1
+2021/07/09-15:25:46.746 36c8 Compacting 1@1 + 1@2 files
+2021/07/09-15:25:46.754 36c8 Generated table #5297@1: 2682 keys, 248632 bytes
+2021/07/09-15:25:46.754 36c8 Compacted 1@1 + 1@2 files => 248632 bytes
+2021/07/09-15:25:46.755 36c8 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/07/09-15:25:46.756 36c8 Delete type=2 #5293
+2021/07/09-15:25:46.756 36c8 Delete type=2 #5296
+2021/07/09-15:25:46.757 36c8 Manual compaction at level-1 from '\x00\x01\x01 \x03\x000%\x15\xab\xa8wB\x00\x01}\x00d\x00a\x00t\x00a\x00-\x00c\x00a\x00c\x00h\x00e\x00-\x00v\x001\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00s\x00p\x00c\x00l\x00i\x00e\x00n\x00t\x00.\x00w\x00g\x00.\x00s\x00p\x00o\x00t\x00i\x00f\x00y\x00.\x00c\x00o\x00m\x00/\x00q\x00u\x00i\x00c\x00k\x00s\x00i\x00l\x00v\x00e\x00r\x00/\x00v\x002\x00/\x00t\x00r\x00i\x00g\x00g\x00e\x00r\x00s\x00?\x00t\x00r\x00i\x00g\x00_\x00t\x00y\x00p\x00e\x00=\x00U\x00R\x00I\x00&\x00t\x00r\x00i\x00g\x00_\x00t\x00y\x00p\x00e\x00=\x00C\x00L\x00I\x00E\x00N\x00T\x00_\x00E\x00V\x00E\x00N\x00T\x00&\x00c\x00t\x00v\x00_\x00t\x00y\x00p\x00e\x00=\x00w\x00e\x00b\x00-\x00m\x00o\x00d\x00a\x00l' @ 119145 : 1 .. (end); will stop at (end)
